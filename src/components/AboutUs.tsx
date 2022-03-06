@@ -22,6 +22,7 @@ const AboutUs = () => {
 export default AboutUs;
 
 const About = styled.section`
+  margin-bottom: 150px;
   padding: 0px 15px;
 `
 

@@ -32,7 +32,7 @@ const InvestmentContainer = styled.div`
   position:relative;
   width:100%;
   max-width: 1274px;
-  margin: 150px auto 50px auto;
+  margin: 0px auto 50px auto;
   padding: 0px 15px;
   &> div {
       position:relative;
